@@ -1,0 +1,12 @@
+../Core/Src/main.c:26:5:main	1
+../Core/Src/main.c:114:6:EraseFlash	2
+../Core/Src/main.c:135:19:WriteFlash	3
+../Core/Src/main.c:154:6:ReadFlash	1
+../Core/Src/main.c:159:6:VerifyFlashWrite	2
+../Core/Src/main.c:177:6:Application_Init	1
+../Core/Src/main.c:185:6:CheckPassword	2
+../Core/Src/main.c:209:6:ProcessCommand	4
+../Core/Src/main.c:241:6:SystemClock_Config	4
+../Core/Src/main.c:279:13:LED_Init	1
+../Core/Src/main.c:294:13:UART_Init	3
+../Core/Src/main.c:329:6:Error_Handler	1
